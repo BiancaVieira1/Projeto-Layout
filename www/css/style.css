@@ -1,0 +1,26 @@
+.display{
+  margin-top: 20px;
+  height: 60px;
+  font-size: 35px;
+}
+.numero{
+  margin-top: 15px;
+  height: 45px;
+  font-size: 50px;
+  font-style: arial;
+  border-bottom-color: white;
+}
+.numero button{
+     font-size: 18px;
+     background-color: black;
+     
+}
+.container{
+  background-color:plum;
+  font-style: arial;
+  border-style: solid;
+  border-width: 12px;
+  border-radius: 10px;
+}
+
+
